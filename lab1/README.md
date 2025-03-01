@@ -7,7 +7,7 @@
 ### Навигация
 
 - [ ] [Задача 1 - Максимальная стоимость добычи](https://github.com/haha523/algorithms-and-data-semester-2/blob/616d448b4648c446f988e1ec5fe5a0efb2d2b488/lab1/task%201/README.md)
-- [ ] [Задача 6 - Максимальная зарплата](https://github.com/haha523/algorithms-and-data-structures/blob/7af2be9173259c1ba314fbe6a21eddab54b4e1d1/lab4/task%202/README.md)
+- [ ] [Задача 6 - Максимальная зарплата](https://github.com/haha523/algorithms-and-data-semester-2/blob/271dfc9614ee22abd7269d301bccba6c59036166/lab1/task%206/README.md)
 - [ ] [Задача 12 - Последовательность](https://github.com/haha523/algorithms-and-data-structures/blob/7af2be9173259c1ba314fbe6a21eddab54b4e1d1/lab4/task%203/README.md)
 - [ ] [Задача 13 - Сувениры](https://github.com/haha523/algorithms-and-data-structures/blob/7af2be9173259c1ba314fbe6a21eddab54b4e1d1/lab4/task%204/README.md)
 - [ ] [Задача 15 - Удаление скобок](https://github.com/haha523/algorithms-and-data-structures/blob/7af2be9173259c1ba314fbe6a21eddab54b4e1d1/lab4/task%205/README.md)
