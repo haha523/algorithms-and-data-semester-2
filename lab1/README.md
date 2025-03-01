@@ -12,7 +12,7 @@
 - [ ] [Задача 13 - Сувениры](https://github.com/haha523/algorithms-and-data-semester-2/blob/7352ce156e3fe73a75e7250ec2ca80c1558e0734/lab1/task%2013/README.md)
 - [ ] [Задача 15 - Удаление скобок](https://github.com/haha523/algorithms-and-data-semester-2/blob/ea5e9c57d02c356c8c1a079688a496c9a4d23ca4/lab1/task%2015/README.md)
 - [ ] [Задача 18 - Кафе](https://github.com/haha523/algorithms-and-data-semester-2/blob/4f4e28ab1c67adeaba5a457f3ea08da3702cb779/lab1/task%2018/README.md)
-- [ ] [Задача 19 - Произведение матриц](https://github.com/haha523/algorithms-and-data-structures/blob/7af2be9173259c1ba314fbe6a21eddab54b4e1d1/lab4/task%207/README.md)
+- [ ] [Задача 19 - Произведение матриц](https://github.com/haha523/algorithms-and-data-semester-2/blob/d7aafe64f1784dd64c5d136be9d0c92846c3c1bd/lab1/task%2019/README.md)
 
 
 ## Описание:
