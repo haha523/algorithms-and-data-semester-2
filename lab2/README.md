@@ -10,7 +10,7 @@
 - [ ] [Задача 7 - Опознание двоичного дерева поиска (усложненная версия)](https://github.com/haha523/algorithms-and-data-semester-2/blob/cd982ada8a899455548c4b20ec823e52c1b43c35/lab2/task%207/README.md)
 - [ ] [Задача 11 - Сбалансированное двоичное дерево поиска](https://github.com/haha523/algorithms-and-data-semester-2/blob/65a138d557a7439c22eb0ad5714039617c0e76de/lab2/task%2011/README.md)
 - [ ] [Задача 14 - Вставка в АВЛ-дерево](https://github.com/haha523/algorithms-and-data-semester-2/blob/13ee0276063ca90f5de767e6689b4b142bd6ca11/lab2/task%2014/README.md)
-- [ ] [Задача 16 - K-й максимум](https://github.com/haha523/algorithms-and-data-semester-2/blob/ea5e9c57d02c356c8c1a079688a496c9a4d23ca4/lab1/task%2015/README.md)
+- [ ] [Задача 16 - K-й максимум](https://github.com/haha523/algorithms-and-data-semester-2/blob/9b1876c815a6bdc3fe408c592ac06e346a543a25/lab2/task%2016/README.md)
 
 
 ## Описание:
