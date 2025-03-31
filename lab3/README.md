@@ -10,7 +10,7 @@
 - [ ] [Задача 7 - Двудольный граф](https://github.com/haha523/algorithms-and-data-semester-2/blob/687efc925b4c18dbbf64418091090b5f53a09d5a/lab3/task%207/README.md)
 - [ ] [Задача 13 - Грядки](https://github.com/haha523/algorithms-and-data-semester-2/blob/1db6fdd0df60df9161b362d676143639482d1c24/lab3/task%2013/README.md)
 - [ ] [Задача 14 - Автобусы](https://github.com/haha523/algorithms-and-data-semester-2/blob/0e2eb4cb2e2ae8148d62f4c33897dfa0c13706fd/lab3/task%2014/README.md)
-- [ ] [Задача 17 - Слабая K-связность](https://github.com/haha523/algorithms-and-data-semester-2/blob/9b1876c815a6bdc3fe408c592ac06e346a543a25/lab2/task%2016/README.md)
+- [ ] [Задача 17 - Слабая K-связность](https://github.com/haha523/algorithms-and-data-semester-2/blob/a430ebcba98ab1db8dbe9f80181e51a461b6ae53/lab3/task%2017/README.md)
 
 
 ## Описание:
