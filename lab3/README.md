@@ -6,7 +6,7 @@
 
 ### Навигация:
 
-- [ ] [Задача 2 - Компоненты](https://github.com/haha523/algorithms-and-data-semester-2/blob/e7661aaa273fb0fd174b246e6d7578b23bbf218f/lab2/task%203/README.md)
+- [ ] [Задача 2 - Компоненты](https://github.com/haha523/algorithms-and-data-semester-2/blob/15731164a916062c82f338d6cb88ee62f391da05/lab3/task%202/README.md)
 - [ ] [Задача 7 - Двудольный граф](https://github.com/haha523/algorithms-and-data-semester-2/blob/cd982ada8a899455548c4b20ec823e52c1b43c35/lab2/task%207/README.md)
 - [ ] [Задача 13 - Грядки](https://github.com/haha523/algorithms-and-data-semester-2/blob/65a138d557a7439c22eb0ad5714039617c0e76de/lab2/task%2011/README.md)
 - [ ] [Задача 14 - Автобусы](https://github.com/haha523/algorithms-and-data-semester-2/blob/13ee0276063ca90f5de767e6689b4b142bd6ca11/lab2/task%2014/README.md)
