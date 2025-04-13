@@ -6,7 +6,7 @@
 
 ### Навигация:
 
-- [ ] [Задача 1 - Наивный поиск подстроки в строке](https://github.com/haha523/algorithms-and-data-semester-2/blob/15731164a916062c82f338d6cb88ee62f391da05/lab3/task%202/README.md)
+- [ ] [Задача 1 - Наивный поиск подстроки в строке](https://github.com/haha523/algorithms-and-data-semester-2/blob/00f3163950371184cdeb306ede543f659d5a6d14/lab4/task%201/README.md)
 - [ ] [Задача 3 - Паттерн в тексте](https://github.com/haha523/algorithms-and-data-semester-2/blob/687efc925b4c18dbbf64418091090b5f53a09d5a/lab3/task%207/README.md)
 - [ ] [Задача 5 - Префикс-функция](https://github.com/haha523/algorithms-and-data-semester-2/blob/1db6fdd0df60df9161b362d676143639482d1c24/lab3/task%2013/README.md)
 - [ ] [Задача 7 - Наибольшая общая подстрока](https://github.com/haha523/algorithms-and-data-semester-2/blob/0e2eb4cb2e2ae8148d62f4c33897dfa0c13706fd/lab3/task%2014/README.md)
