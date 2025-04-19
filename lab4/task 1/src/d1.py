@@ -12,7 +12,7 @@ def naive_pattern_search(pattern, text):
                 match = False
                 break
         if match:
-            occurrences.append(i + 1)  # +1 для 1-индексации
+            occurrences.append(i + 1)  
 
     return occurrences
 
